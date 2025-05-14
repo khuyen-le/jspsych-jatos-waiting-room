@@ -12,7 +12,7 @@
 
 2. Click on `Studies` > `New Study` on the JATOS server homepage. This will create a new folder in the `study-assets-root` folder, with a randomly-generated UUID.
 
-3. Copy the **content** of `test-jatos-waiting-room` into this new folder.
+3. Copy the **content** of `test-jatos-waiting-room` into this new folder (should have a `jspsych` folder and a `index.html` file).
 
 4. On the JATOS server homepage, click on `Properties`, then make sure `Group Study` is toggled on.
 
